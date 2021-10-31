@@ -1,4 +1,8 @@
-# How to point GoDaddy Domains to DigitalOcean with Cloudflare
+# How to point GoDaddy Domains to DigitalOcean with Cloudflare.
+
+### Note that this will work for any other domain provider.
+
+---
 
 How I point any domain to my hosted website on Digital Ocean. In this post I will be pointing GoDaddy domain to DigitalOcean.
 
@@ -79,3 +83,5 @@ nslookup domain_name 8.8.8.8
 ```
 
 You can also use online tools, such as [https://www.whatsmydns.net/](https://www.whatsmydns.net/)
+
+### Give a star if you found this helpful.
